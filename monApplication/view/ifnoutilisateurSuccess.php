@@ -1,0 +1,1 @@
+ <?php echo ' utilisateur num '.$context->iduser->id.' est : '.$context->iduser->nom.' '.$context->iduser->prenom    ?>

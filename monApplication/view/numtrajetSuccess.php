@@ -1,0 +1,1 @@
+le trajet entre  <?php echo ' '.$context->trajet->depart.' et '.$context->trajet->arrivee.' est le trajet num : '.$context->trajet->id .' avec la distance: '.$context->trajet->distance    ?>
